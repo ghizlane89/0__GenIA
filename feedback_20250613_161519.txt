@@ -1,0 +1,8 @@
+URL: URL: https://github.com/ghizlane89/0__GenIA/blob/Bootcamp/Week_1/Day_3/ExercicesXP/W1_D3_XP.ipynb
+suggestions for improvement:
+- **Exercise 1:** The `find_oldest_cat` function is well-implemented using the `max` function and a lambda expression for efficient comparison.  However, the output string is slightly different from the requested format.  It should specify both the name and age of the oldest cat.
+- **Exercise 2:** The `Dog` class is correctly implemented with the specified methods. The `find_tallest` function is also correctly implemented. The print statements within the `Dog` class methods could be improved for clarity.
+- **Exercise 3:** The `Song` class is well-structured and correctly prints the lyrics line by line. No improvements are needed.
+- **Exercise 4:** The `Zoo` class is largely correctly implemented.  The `add_animal` method prevents duplicates. The `sort_animals` method correctly sorts animals and groups them by the first letter of their name, returning the dictionary as specified. The `get_groups` method is missing but could easily be added to print the dictionary in the requested format. The test cases are good.
+Correctness: 85%
+-----
