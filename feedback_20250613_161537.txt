@@ -1,0 +1,7 @@
+URL: URL: https://github.com/ghizlane89/0__GenIA/blob/Bootcamp/Week_1/Day_4/ExercicesXP/W1_D4_XP.ipynb
+suggestions for improvement:
+- In Exercise 1, the comments in the code are mostly redundant and could be removed for better readability.  Focus on clear naming conventions instead of relying on comments to explain simple logic.
+- Exercise 2's `fight` method could benefit from a more robust tie-breaker condition to avoid an ambiguous result.  Consider using a random element to simulate a more unpredictable outcome in a real fight.
+- In Exercise 3, you could add more descriptive names to variables like `args` in the `play` method for better clarity. A more descriptive name like `dogs` would improve readability.
+Correctness: 100%
+-----
